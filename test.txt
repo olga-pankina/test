@@ -4,3 +4,4 @@
 789
 Add line
 new line
+not a conflict
