@@ -6,3 +6,4 @@ Add line
 new line
 test conflict
 not a conflict
+new branch line
